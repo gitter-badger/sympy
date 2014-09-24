@@ -1,5 +1,6 @@
 SymPy
 =====
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/devil-iiit/sympy?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 A Python library for symbolic mathematics.
 
