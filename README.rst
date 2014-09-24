@@ -1,7 +1,5 @@
 SymPy
 =====
-[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/devil-iiit/sympy?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-
 A Python library for symbolic mathematics.
 
 http://sympy.org/
@@ -29,6 +27,10 @@ Download
 
 .. image:: https://pypip.in/d/sympy/badge.png
     :target: https://pypi.python.org/pypi/sympy
+
+.. image:: https://badges.gitter.im/Join%20Chat.svg
+    :target: https://gitter.im/devil-iiit/sympy?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge
+
 
 Get the latest version of SymPy from
 https://pypi.python.org/pypi/sympy/
